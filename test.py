@@ -1,2 +1,2 @@
-print("Hello from python test file version 3.0!!")
+print"Hello from python test file version 3.0!!")
 
